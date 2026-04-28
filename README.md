@@ -31,3 +31,8 @@ On regroupe tous les modèles utilisés dans ce code.
  - Seq2seq: encoder + attention + decoder
 ## 4. Pipeline
 Entrainement et inférence
+
+# Installation 
+git clone https://github.com/ArthurCoronFrench/grammar-corrector-llm.
+git cd grammar-corrector-llm 
+pip install torch
